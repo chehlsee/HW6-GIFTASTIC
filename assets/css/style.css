@@ -9,7 +9,7 @@ body {
 		margin-bottom: 60px;
 		font-size: 20px;
 		color: orange;
-		font-family: burtonsNightmare;
+		font-family: burtonsNightmare, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* #wrap {
@@ -25,7 +25,7 @@ body {
 #title {
 	color:#fff;
 	text-align:center;
-	font-family:'Shlop', cursive;
+	font-family:'Shlop', sans-serif;
 	padding-top:16px;
 }
 
@@ -38,7 +38,7 @@ body {
 .timBurton {
 	color: white;
 	text-align:center;
-	font-family: burtonsNightmare;
+	font-family: burtonsNightmare, sans-serif;
 }
 
 
