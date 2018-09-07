@@ -9,7 +9,7 @@ body {
 		margin-bottom: 60px;
 		font-size: 20px;
 		color: orange;
-		font-family: burtonsNightmare, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		font-family: burtonsNightmare, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
 }
 
 /* #wrap {
@@ -25,7 +25,7 @@ body {
 #title {
 	color:#fff;
 	text-align:center;
-	font-family:'Shlop', sans-serif;
+	font-family:'Shlop', 'Franklin Gothic Medium', 'Arial Narrow', Arial;
 	padding-top:16px;
 }
 
@@ -38,7 +38,7 @@ body {
 .timBurton {
 	color: white;
 	text-align:center;
-	font-family: burtonsNightmare, sans-serif;
+	font-family: burtonsNightmare, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
 }
 
 
