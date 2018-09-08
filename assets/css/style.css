@@ -32,7 +32,7 @@ body {
 /* add font-face to add downloaded font to css */
 @font-face {
 	font-family: burtonsNightmare;
-	src: url('/Users/chehlsee/Library/Fonts/NITEMARE.TTF');
+	src: url('../fonts/nitemare-webfont.woff');
 } 
 
 .timBurton {
