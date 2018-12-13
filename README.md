@@ -9,7 +9,6 @@ This app is made of an array of string, each one relating to the topic of Tim Bu
 
 * The form on the page takes the value from a user input box and will add it to the `topics` array on the top of the page and render a button on the page for the user topic.
 
-![GIPHY](Images/1-giphy.jpg)
 
 - - -
 
